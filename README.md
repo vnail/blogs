@@ -1,0 +1,2 @@
+# blogs
+record blogs
